@@ -1,11 +1,11 @@
 export const config = {
-  title: "Moire",
-  author: "Aeris",
-  theme: "classic",
+  title: "MJBF.EU - PILosophy",
+  author: "Manuel J. Brenes Flores",
+  theme: "academic",
   heatmap: true,
   pageSize: 20,
   order_by: "created",
-  description: "Sync your thoughts from Apple Notes by Shortcuts.",
+  description: "Un blog modesto sobre DIPr. Aquí no encontrarás inteligencia artificial. Apuntes, casos y dudas que voy teniendo mientras estudio o trabajo.",
   keywords: "memo, thought, sync, apple notes, shortcuts, ios",
-  url: "https://moire.blog"
+  url: "https://www.mjbf.eu"
 };
