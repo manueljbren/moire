@@ -1,7 +1,7 @@
 export const config = {
   title: "MJBF.EU - PILosophy",
   author: "Manuel J. Brenes Flores",
-  theme: "academic",
+  theme: "classic",
   heatmap: true,
   pageSize: 20,
   order_by: "created",
